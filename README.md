@@ -1,6 +1,6 @@
 # Helldivers 2 VoiceAttack profile
 ### Helldivers 2 VoiceAttack profile with voice and key macros to help with accessibility
-Do you have low mobility or other problems preventing you from inputting stratagems? Do you want to role-play talking to the bridge of your ship? Or can you just not be bothered to remember all the games stratagems? Then maybe this is for you.
+Do you have low mobility or other problems preventing you from inputting stratagems? Do you want to role-play talking to the bridge of your ship? Or can you just not be bothered to remember all the stratagem input codes? Then maybe this is for you.
 
 I'm a big believer in letting people play the way they want to and making games more accessible, while maintaining the developers vision and keeping it fair for everyone. I believe this VoiceAttack profile accomplishes this.
 
