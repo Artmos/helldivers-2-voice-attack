@@ -20,9 +20,17 @@ I'm a big believer in letting people play the way they want to and making games 
 The default keys for the profile is **CTRL** to activate stratagem list (**Hold** and **Press** will both work) and **arrow keys** for stratagem input.
 If you plan on using stratagem key binding, this defaults to **number keys 1-9**, so you should not have your weapons bound to keys you plan to use. For swithing weapons I like to unbind my weapon keys and use **"Change equipment"** on **Mouse wheel up and down**.
 
+![stratagem-input](https://github.com/Artmos/helldivers-2-voice-attack/assets/187554/8088ffee-9419-4b44-9543-8c96ba001114)
+![change-equipment-input](https://github.com/Artmos/helldivers-2-voice-attack/assets/187554/aba8054c-e414-4b5d-9def-e80bc57c5f5b)
+![weapon-input](https://github.com/Artmos/helldivers-2-voice-attack/assets/187554/d588069e-39a8-4559-9f82-1237a0569a1d)
+
 
 ### Modify VoiceAttack profile
-You can easily change what keys you use for inputting stratagem codes and you can easily change the keys you bind your stratagems to.
+You can easily change what keys you use for inputting stratagem codes.
+![VoiceAttack-input](https://github.com/Artmos/helldivers-2-voice-attack/assets/187554/cc531ec4-ae7f-4b1c-8648-a6c13a708f97)
+
+You can also change the keys you bind your stratagems to.
+![VoiceAttack-key-binds](https://github.com/Artmos/helldivers-2-voice-attack/assets/187554/e4c6353a-5c95-4eb7-bade-387315546e07)
 
 
 ### Bugs and improvements
