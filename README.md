@@ -5,10 +5,10 @@ Do you have low mobility or other problems preventing you from inputting stratag
 I'm a big believer in letting people play the way they want to and making games more accessible, while maintaining the developers vision and keeping it fair for everyone. I believe this VoiceAttack profile accomplishes this.
 
 #### Voice commands for calling in stratagems
-> Use your voice **_"call in orbital barrage"_** and have it appear in your hand, ready to throw. You called to the bridge and after a short delay they delivered.
+> Use your voice **_"call in eagle cluster bomb"_** and have it appear in your hand, ready to throw. You called to the bridge and after a short delay they delivered.
 
 #### Bind stratagems to keys on the fly with voice commands
-> You can bind 1-9 keys to specific stratagems **_"set key 3 to orbital barrage"_**, afterwards when pressing 3 the orbital barrage will appear in your hand. The current way stratagems function hinders variety and experimentation as players need to adapt to new codes. By making stratagem key bindings available while outfitting your helldiver I want to encourage more variety and play.
+> You can bind 1-9 keys to specific stratagems **_"set key 3 to eagle cluster bomb"_**, afterwards when pressing 3 the orbital barrage will appear in your hand. The current way stratagems function hinders variety and experimentation as players need to adapt to new codes. By making stratagem key bindings available while outfitting your helldiver I want to encourage more variety and play.
 
 
 ### Installation
@@ -17,7 +17,7 @@ I'm a big believer in letting people play the way they want to and making games 
 3. Import the profile in VoiceAttack
 4. You are now ready to go, but you may want to modify your key binds in game or edit the VoiceAttack profile
 
-The default keys for the profile is **CTRL** to activate stratagem list (**Hold** and **Press** will both work) and **arrow keys** for stratagem input.
+The default keys for the profile is **CTRL** to open stratagem list (**Hold** and **Press** will both work) and **arrow keys** for stratagem input.
 If you plan on using stratagem key binding, this defaults to **number keys 1-9**, so you should not have your weapons bound to keys you plan to use. For swithing weapons I like to unbind my weapon keys and use **"Change equipment"** on **Mouse wheel up and down**.
 
 ![stratagem-input](https://github.com/Artmos/helldivers-2-voice-attack/assets/187554/8088ffee-9419-4b44-9543-8c96ba001114)
