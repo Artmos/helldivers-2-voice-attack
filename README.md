@@ -13,7 +13,7 @@ I'm a big believer in letting people play the way they want to and making games 
 
 ### Installation
 1. Download, install and set up VoiceAttack: https://voiceattack.com/
-2. Download the profile (right click and Save link as...): https://raw.githubusercontent.com/Artmos/helldivers-2-voice-attack/main/Helldivers-2-Profile.vap
+2. Download the profile (right click and Save link as...): [Helldivers-2-Profile.vap](/Helldivers-2-Profile.vap?raw=true)
 3. Import the profile in VoiceAttack
 4. You are now ready to go, but you may want to modify your key binds in game or edit the VoiceAttack profile
 
@@ -26,7 +26,7 @@ If you plan on using stratagem key binding, this defaults to **number keys 1-9**
 
 
 ### Modify VoiceAttack profile
-You can easily change what keys you use for inputting stratagem codes.
+You can easily change what keys you use for inputting stratagem codes in game.
 ![VoiceAttack-input](https://github.com/Artmos/helldivers-2-voice-attack/assets/187554/cc531ec4-ae7f-4b1c-8648-a6c13a708f97)
 
 You can also change the keys you bind your stratagems to.
