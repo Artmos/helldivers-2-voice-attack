@@ -8,7 +8,7 @@ I'm a big believer in letting people play the way they want to and making games 
 > Use your voice **_"call in eagle cluster bomb"_** and have it appear in your hand, ready to throw. You called to the bridge and after a short delay they delivered.
 
 #### Bind stratagems to keys on the fly with voice commands
-> You can bind 1-9 keys to specific stratagems **_"set key 3 to eagle cluster bomb"_**, afterwards when pressing 3 the cluster bomb will appear in your hand.
+> You can bind 1-9 keys to specific stratagems by saying **_"set key 3 to eagle cluster bomb"_**, afterwards when pressing 3 the cluster bomb will appear in your hand.
 
 
 ### Installation
