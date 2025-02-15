@@ -13,7 +13,7 @@ I'm a big believer in letting people play the way they want to and making games 
 
 ### Installation
 1. Download, install and set up VoiceAttack: https://voiceattack.com/
-2. Download the profile (right click and Save link as...): [Helldivers-2-Profile.vap](/Helldivers-2-Profile.vap?raw=true)
+2. Download the profile: [Helldivers-2-Profile.vap](/Helldivers-2-Profile.vap?raw=true)
 3. Import the profile in VoiceAttack
 4. You are now ready to go, but you may want to modify your key binds in game or edit the VoiceAttack profile
 
