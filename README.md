@@ -17,6 +17,10 @@ I'm a big believer in letting people play the way they want to and making games 
 3. Import the profile in VoiceAttack
 4. You are now ready to go, but you may want to modify your key binds in game or edit the VoiceAttack profile
 
+### Updating
+To update the profile the easiest way is to delete the exsisting profile before importing the new one.
+
+### Setup
 The default keys for the profile is **CTRL** to open stratagem list (**Hold** and **Press** will both work) and **arrow keys** for stratagem input.
 If you plan on using stratagem key binding, this defaults to **number keys 1-9**, so you should not have your weapons bound to keys you plan to use. For swithing weapons I like to unbind my weapon keys and use **"Change equipment"** on **Mouse wheel up and down**.
 
